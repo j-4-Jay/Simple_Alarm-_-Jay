@@ -16,3 +16,5 @@ while current_time != desired_time:
 
 #* When the alarm time is reached, Play the alarm sound
 winsound.Beep(frequency, duration)
+
+# End of program
